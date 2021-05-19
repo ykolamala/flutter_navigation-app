@@ -1,5 +1,5 @@
 # flutter_navigation_app
 
-#fluuter navigation 
+#fluter navigation using Named routes and Material Page Routes
 
 ![flutter navigation video](flutterNavigationDemo.mov)
